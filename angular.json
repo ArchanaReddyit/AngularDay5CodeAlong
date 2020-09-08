@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tour-of-ProGrads"
+    }
+  },
+  "defaultProject": "tour-of-ProGrads",
+  "cli": {
+    "analytics": "91be72fe-b24f-46bb-8093-c4e66a0981c0"
+  }
 }
